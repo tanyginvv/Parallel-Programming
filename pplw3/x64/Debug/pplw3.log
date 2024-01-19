@@ -1,0 +1,6 @@
+﻿  pplw3.cpp
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(18,17): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(18,17): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(23,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(58,51): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  pplw3.vcxproj -> C:\Users\79027\Desktop\пп\pplw3\x64\Debug\pplw3.exe

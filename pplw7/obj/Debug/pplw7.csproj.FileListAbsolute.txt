@@ -1,0 +1,7 @@
+D:\study\pp\pplw7\bin\Debug\pplw7.exe.config
+D:\study\pp\pplw7\bin\Debug\pplw7.exe
+D:\study\pp\pplw7\bin\Debug\pplw7.pdb
+D:\study\pp\pplw7\obj\Debug\pplw7.csproj.AssemblyReference.cache
+D:\study\pp\pplw7\obj\Debug\pplw7.csproj.CoreCompileInputs.cache
+D:\study\pp\pplw7\obj\Debug\pplw7.exe
+D:\study\pp\pplw7\obj\Debug\pplw7.pdb

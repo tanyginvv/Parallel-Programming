@@ -1,0 +1,10 @@
+﻿  BitMap.cpp
+  pplw2.cpp
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(19,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(27,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(29,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(47,25): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(48,25): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw2\pplw2.cpp(49,25): warning C4244: =: преобразование "double" в "uint8_t", возможна потеря данных
+  Создание кода...
+  pplw2.vcxproj -> C:\Users\79027\Desktop\пп\pplw2\x64\Debug\pplw2.exe

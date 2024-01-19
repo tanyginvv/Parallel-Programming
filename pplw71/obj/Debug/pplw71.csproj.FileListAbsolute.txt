@@ -1,0 +1,10 @@
+D:\study\pp\pplw71\obj\Debug\pplw71.csproj.AssemblyReference.cache
+D:\study\pp\pplw71\obj\Debug\pplw71.csproj.CoreCompileInputs.cache
+D:\study\pp\pplw71\bin\Debug\pplw71.exe.config
+D:\study\pp\pplw71\bin\Debug\pplw71.exe
+D:\study\pp\pplw71\bin\Debug\pplw71.pdb
+D:\study\pp\pplw71\bin\Debug\Newtonsoft.Json.dll
+D:\study\pp\pplw71\bin\Debug\Newtonsoft.Json.xml
+D:\study\pp\pplw71\obj\Debug\pplw71.csproj.CopyComplete
+D:\study\pp\pplw71\obj\Debug\pplw71.exe
+D:\study\pp\pplw71\obj\Debug\pplw71.pdb

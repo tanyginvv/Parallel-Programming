@@ -1,0 +1,10 @@
+﻿  pplw3.cpp
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(17,14): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(17,14): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(22,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79027\Desktop\пп\pplw3\pplw3.cpp(66,51): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  pplw3.vcxproj -> C:\Users\79027\Desktop\пп\pplw3\x64\Release\pplw3.exe
